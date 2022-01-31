@@ -14,6 +14,9 @@
 
 </br>
 
+# This is not the main repo i had problems with deploying it 
+**Original**: [React-courrse-repo](https://indecision-app-mans.surge.sh/)
+
 
 **Live Preview**: [Indecision App](https://indecision-app-mans.surge.sh/)
 
