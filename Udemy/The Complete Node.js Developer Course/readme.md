@@ -32,10 +32,4 @@
 **Live Preview**: [Chat App](https://mans-node-chat-app.herokuapp.com/) 
 
 
----
-**Course Link:** [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2)
-
-<h5><a href="#certificate"></a>Certificate</h5>
-<p align="center">
-  <img  src="https://imagizer.imageshack.com/v2/1017x757q90/924/uzD8jX.png" width="700">
-</p>
+=
