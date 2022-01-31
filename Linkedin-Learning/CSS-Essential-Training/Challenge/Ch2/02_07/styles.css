@@ -1,0 +1,27 @@
+* {
+    color: red;
+}
+
+h1 {
+    color: darkolivegreen;
+}
+
+h2 {
+    color: sienna;
+}
+
+p {
+    color: darkgoldenrod;
+}
+
+.Example {
+    color: black;
+}
+
+.Example2 {
+    background-color: aquamarine;
+}
+
+.Example.Example2 {
+    font-size: 50px;
+}
