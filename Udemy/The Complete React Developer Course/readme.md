@@ -15,7 +15,7 @@
 </br>
 
 # This is not the main repo i had problems with deploying it 
-**Original**: [React-courrse-repo](https://indecision-app-mans.surge.sh/)
+**Original**: [React-courrse-repo](https://github.com/manssorr/The-Complete-React-Developer-Course/)
 
 
 **Live Preview**: [Indecision App](https://indecision-app-mans.surge.sh/)
